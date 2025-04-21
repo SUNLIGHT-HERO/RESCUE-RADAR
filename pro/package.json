@@ -1,0 +1,11 @@
+{
+  "name": "crcp",
+  "version": "1.0.0",
+  "description": "Centralized Rescue Coordination Platform",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/assets/css/styles.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+} 
